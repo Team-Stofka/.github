@@ -22,15 +22,15 @@ Stofka는 Upbit API를 활용해 📡 실제 거래소의 코인 데이터를 �
 
 ### 🎥 주요 화면
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/ad39ecee-e4ce-40c3-ab52-43f207b0fbc0" alt="실시간 초봉 시세 차트" width="600"/> <br/> <sub>🔼 실시간 그려지는 초봉 차트</sub> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/4b68c28a-0ac8-4873-b2fe-59223dd29356" alt="실시간 초봉 시세 차트" width="600"/> <br/> <sub>🔼 실시간 그려지는 초봉 차트</sub> </div>
 
 <br>
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/612a8578-e12e-49ff-86b4-9606b544f878" alt="초봉 기능 상세 예시" width="600"/> <br/> <sub>🔼 초봉 세부 기능</sub> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/30f94ddd-aabe-4701-87db-6e76d80225ec" alt="초봉 기능 상세 예시" width="600"/> <br/> <sub>🔼 초봉 세부 기능</sub> </div>
 
 <br>
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/0699b0ba-5040-441b-870d-5fd1e8a8409d" alt="Upbit vs Stofka 비교" width="600"/> <br/> <sub>🔼 업비트 실제 시세와 우리 서비스의 초봉 일치 여부 비교</sub> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/9f2e05c3-b5de-4d6b-a430-d5cb0feb573d" alt="Upbit vs Stofka 비교" width="600"/> <br/> <sub>🔼 업비트 실제 시세와 우리 서비스의 초봉 일치 여부 비교</sub> </div>
 
 ### 🧩 핵심 구성
 
@@ -84,8 +84,7 @@ Stofka는 Upbit API를 활용해 📡 실제 거래소의 코인 데이터를 �
 <br>
 
 ## 5. 아키텍처 📊
-
-![image](https://github.com/user-attachments/assets/8ba95f77-3a60-40f0-84a3-c8bb5154afd4)
+![image](https://github.com/user-attachments/assets/6068a08f-e628-4fba-b874-e0a48f418df3)
 
 <br>
 
