@@ -127,9 +127,11 @@ Redis에서 우선적으로 데이터를 조회
 ### **8-1. Kafka 브로커 운영 전략**
 
 - 3개의 브로커를 사용하여 Kafka 클러스터를 구성했으며, 브로커 장애가 일어나도 정상적으로 운영할 수 있는 고가용성 환경을 구성했습니다.
+<br>
 [고가용성 Kafka 클러스터 구성](https://github.com/Team-Stofka/stofka-docs/blob/main/kafka/Kafka%20%EB%B8%8C%EB%A1%9C%EC%BB%A4%203%EA%B0%9C%2C%20Kafdrop%20%EC%84%A4%EC%B9%98.md)
 
 - 카프카의 안정적인 운영을 위해 prometheus에서 metric을 수집하고 grafana에 저장소로 등록하여 대시보드를 생성했습니다.
+<br>
 [카프카 데이터 수집 및 모니터링 설정](https://github.com/Team-Stofka/stofka-docs/blob/main/kafka/Kafka%20Metric%20%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%84%A4%EC%A0%95.md)
 
 ### **8-2. PostgreSQL & Redis 역할 분리**
